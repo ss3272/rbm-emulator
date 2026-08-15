@@ -41,6 +41,12 @@
     "security_type": "Common Stock",
     "ticker": "AVGO"
   },
+  "15675D103": {
+    "exchange": "US",
+    "name": "CEREBRAS SYSTEMS INC - A",
+    "security_type": "Common Stock",
+    "ticker": "CBRS"
+  },
   "17253J106": {
     "exchange": "US",
     "name": "CIPHER DIGITAL INC",
@@ -130,6 +136,12 @@
     "name": "INTEL CORP",
     "security_type": "Common Stock",
     "ticker": "INTC"
+  },
+  "486917107": {
+    "exchange": "US",
+    "name": "KEEL INFRASTRUCTURE CORP",
+    "security_type": "Common Stock",
+    "ticker": "KEEL"
   },
   "49427F108": {
     "exchange": "US",
@@ -227,6 +239,12 @@
     "security_type": "Common Stock",
     "ticker": "SEI"
   },
+  "861012102": {
+    "exchange": "US",
+    "name": "STMICROELECTRONICS NV-NY SHS",
+    "security_type": "NY Reg Shrs",
+    "ticker": "STM"
+  },
   "874039100": {
     "exchange": "US",
     "name": "TAIWAN SEMICONDUCTOR-SP ADR",
@@ -256,6 +274,12 @@
     "name": "VERTIV HOLDINGS CO-A",
     "security_type": "Common Stock",
     "ticker": "VRT"
+  },
+  "928298108": {
+    "exchange": "US",
+    "name": "VISHAY INTERTECHNOLOGY INC",
+    "security_type": "Common Stock",
+    "ticker": "VSH"
   },
   "92840M102": {
     "exchange": "US",
